@@ -1,0 +1,2 @@
+wrinitg method on python
+testing line 2 - the extra space is not added automatically as it was in print
